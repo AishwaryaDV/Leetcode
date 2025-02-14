@@ -35,3 +35,4 @@
 | Ant on the Boundary | 62.13% | 100.00% | EASY |
 | Divide Array Into Equal Pairs | 5.42% | 100.00% | EASY |
 | Form Smallest Number From Two Digit Arrays | 1.12% | 100.00% | EASY |
+| Minimum Common Value | 5.07% | 19.18% | EASY |
