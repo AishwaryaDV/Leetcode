@@ -43,3 +43,4 @@
 | Height Checker | 2.43% | 100.00% | EASY |
 | Duplicate Zeros | 31.45% | 100.00% | EASY |
 | Relative Sort Array | 1.65% | 100.00% | EASY |
+| Number of Senior Citizens | 4.18% | 100.00% | EASY |
