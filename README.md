@@ -133,3 +133,4 @@
 | Fizz Buzz | 0.92% | 100.00% | EASY |
 | Check if Every Row and Column Contains All Numbers | 5.05% | 64.20% | EASY |
 | Matrix Diagonal Sum | 0.67% | 100.00% | EASY |
+| Check if Matrix Is X-Matrix | 2.42% | 100.00% | EASY |
