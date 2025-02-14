@@ -19,3 +19,4 @@
 | Longest Common Prefix | 14.99% | 100.00% | EASY |
 | Is Subsequence | 3.28% | 100.00% | EASY |
 | Valid Palindrome | 32.16% | 100.00% | EASY |
+| Ransom Note | 10.66% | 100.00% | EASY |
