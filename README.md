@@ -69,3 +69,4 @@
 | Find Closest Number to Zero | 5.39% | 100.00% | EASY |
 | Monotonic Array | 5.09% | 100.00% | EASY |
 | Set Mismatch | 7.88% | 32.47% | EASY |
+| Unique Morse Code Words | 3.23% | 100.00% | EASY |
