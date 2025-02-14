@@ -24,3 +24,4 @@
 | Product of Array Except Self | 6.24% | 100.00% | MEDIUM |
 | Merge Sorted Array | 100.00% | 99.94% | EASY |
 | Remove Element | 100.00% | 100.00% | EASY |
+| Best Time to Buy and Sell Stock | 7.00% | 99.97% | EASY |
