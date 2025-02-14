@@ -151,3 +151,4 @@
 | Largest Positive Integer That Exists With Its Negative | 5.69% | 100.00% | EASY |
 | Set Matrix Zeroes | 3.77% | 100.00% | MEDIUM |
 | Valid Parentheses | 100.00% | 100.00% | EASY |
+| First Unique Character in a String | 5.64% | 100.00% | EASY |
