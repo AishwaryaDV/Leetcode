@@ -78,3 +78,4 @@
 | Maximum Product of Three Numbers | 5.24% | 100.00% | EASY |
 | Count Elements With Strictly Smaller and Greater Elements  | 1.49% | 100.00% | EASY |
 | Find Smallest Letter Greater Than Target | 0.48% | 100.00% | EASY |
+| Largest Local Values in a Matrix | 5.95% | 100.00% | EASY |
