@@ -141,3 +141,4 @@
 | Find First Palindromic String in the Array | 5.40% | 100.00% | EASY |
 | Sort Characters By Frequency | 5.05% | 100.00% | MEDIUM |
 | Number of Segments in a String | 100.00% | 100.00% | EASY |
+| Add Strings | 100.00% | 100.00% | EASY |
