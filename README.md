@@ -49,3 +49,4 @@
 | Smallest Range I | 5.14% | 100.00% | EASY |
 | N-Repeated Element in Size 2N Array | 5.02% | 42.74% | EASY |
 | Search in Rotated Sorted Array II | 1.24% | 100.00% | MEDIUM |
+| Two Sum | 45.60% | 99.98% | EASY |
