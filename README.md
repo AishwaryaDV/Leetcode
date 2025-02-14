@@ -161,3 +161,4 @@
 | Running Sum of 1d Array | 5.78% | 100.00% | EASY |
 | Maximum Subarray | 5.02% | 99.92% | MEDIUM |
 | Contains Duplicate | 5.39% | 100.00% | EASY |
+| Find the Duplicate Number | 5.06% | 100.00% | MEDIUM |
