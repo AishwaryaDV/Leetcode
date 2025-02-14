@@ -77,3 +77,4 @@
 | Squares of a Sorted Array | 6.04% | 100.00% | EASY |
 | Maximum Product of Three Numbers | 5.24% | 100.00% | EASY |
 | Count Elements With Strictly Smaller and Greater Elements  | 1.49% | 100.00% | EASY |
+| Find Smallest Letter Greater Than Target | 0.48% | 100.00% | EASY |
