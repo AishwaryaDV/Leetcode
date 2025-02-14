@@ -87,3 +87,4 @@
 | Add Digits | 0.90% | 100.00% | EASY |
 | Power of Two | 100.00% | 100.00% | EASY |
 | Backspace String Compare | 100.00% | 100.00% | EASY |
+| Find All Numbers Disappeared in an Array | 5.05% | 100.00% | EASY |
