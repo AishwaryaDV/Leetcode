@@ -60,3 +60,4 @@
 | Reverse Words in a String III | 11.26% | 44.56% | EASY |
 | Integer to Roman | 5.24% | 11.64% | MEDIUM |
 | Find Target Indices After Sorting Array | 1.37% | 100.00% | EASY |
+| Search Insert Position | 0.27% | 100.00% | EASY |
