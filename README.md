@@ -135,3 +135,4 @@
 | Matrix Diagonal Sum | 0.67% | 100.00% | EASY |
 | Check if Matrix Is X-Matrix | 2.42% | 100.00% | EASY |
 | Reverse String II | 3.04% | 100.00% | EASY |
+| Fibonacci Number | 22.87% | 100.00% | EASY |
