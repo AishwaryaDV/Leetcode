@@ -21,3 +21,4 @@
 | Valid Palindrome | 32.16% | 100.00% | EASY |
 | Ransom Note | 10.66% | 100.00% | EASY |
 | Jump Game | 19.16% | 99.97% | MEDIUM |
+| Product of Array Except Self | 6.24% | 100.00% | MEDIUM |
