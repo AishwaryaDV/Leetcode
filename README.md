@@ -81,3 +81,4 @@
 | Largest Local Values in a Matrix | 5.95% | 100.00% | EASY |
 | Make Array Zero by Subtracting Equal Amounts | 13.34% | 100.00% | EASY |
 | Power of Four | 100.00% | 100.00% | EASY |
+| Reverse Integer | 19.87% | 100.00% | MEDIUM |
