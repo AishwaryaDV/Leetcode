@@ -64,3 +64,4 @@
 | Find Minimum in Rotated Sorted Array | 1.50% | 100.00% | MEDIUM |
 | Search in Rotated Sorted Array | 2.49% | 100.00% | MEDIUM |
 | Check If Two String Arrays are Equivalent | 3.46% | 100.00% | EASY |
+| Check If a Word Occurs As a Prefix of Any Word in a Sentence | 100.00% | 100.00% | EASY |
