@@ -134,3 +134,4 @@
 | Check if Every Row and Column Contains All Numbers | 5.05% | 64.20% | EASY |
 | Matrix Diagonal Sum | 0.67% | 100.00% | EASY |
 | Check if Matrix Is X-Matrix | 2.42% | 100.00% | EASY |
+| Reverse String II | 3.04% | 100.00% | EASY |
