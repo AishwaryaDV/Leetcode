@@ -17,3 +17,4 @@
 | Valid Anagram | 9.24% | 100.00% | EASY |
 | Contains Duplicate II | 11.51% | 73.84% | EASY |
 | Longest Common Prefix | 14.99% | 100.00% | EASY |
+| Is Subsequence | 3.28% | 100.00% | EASY |
