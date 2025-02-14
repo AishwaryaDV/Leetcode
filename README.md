@@ -39,3 +39,4 @@
 | Kth Distinct String in an Array | 18.57% | 93.99% | EASY |
 | Check if Array is Good | 8.09% | 100.00% | EASY |
 | Check if The Number is Fascinating | 100.00% | 100.00% | EASY |
+| Find Maximum Number of String Pairs | 7.67% | 100.00% | EASY |
