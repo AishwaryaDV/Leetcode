@@ -108,3 +108,4 @@
 | Plus One | 100.00% | 100.00% | EASY |
 | Maximum Difference Between Increasing Elements | 19.38% | 100.00% | EASY |
 | Find N Unique Integers Sum up to Zero | 3.08% | 100.00% | EASY |
+| Count the Number of Consistent Strings | 5.08% | 100.00% | EASY |
