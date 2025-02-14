@@ -142,3 +142,4 @@
 | Sort Characters By Frequency | 5.05% | 100.00% | MEDIUM |
 | Number of Segments in a String | 100.00% | 100.00% | EASY |
 | Add Strings | 100.00% | 100.00% | EASY |
+| Maximum Number of Words Found in Sentences | 6.07% | 100.00% | EASY |
