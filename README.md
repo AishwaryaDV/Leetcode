@@ -156,3 +156,4 @@
 | Reshape the Matrix | 3.59% | 100.00% | EASY |
 | Intersection of Two Arrays II | 5.29% | 100.00% | EASY |
 | Longest Palindrome | 21.04% | 100.00% | EASY |
+| Find Pivot Index | 13.37% | 100.00% | EASY |
