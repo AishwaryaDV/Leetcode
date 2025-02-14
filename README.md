@@ -149,3 +149,4 @@
 | Most Frequent Even Element | 5.22% | 23.05% | EASY |
 | Sort the People | 10.80% | 100.00% | EASY |
 | Largest Positive Integer That Exists With Its Negative | 5.69% | 100.00% | EASY |
+| Set Matrix Zeroes | 3.77% | 100.00% | MEDIUM |
