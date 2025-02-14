@@ -97,3 +97,4 @@
 | Two Sum II - Input Array Is Sorted | 9.99% | 100.00% | MEDIUM |
 | Pascal's Triangle | 100.00% | 100.00% | EASY |
 | Keyboard Row | 100.00% | 100.00% | EASY |
+| Counting Bits | 5.94% | 100.00% | EASY |
