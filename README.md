@@ -168,3 +168,4 @@
 | Kth Largest Element in an Array | 5.39% | 100.00% | MEDIUM |
 | Pow(x, n) | 3.29% | 100.00% | MEDIUM |
 | Majority Element II | 3.91% | 100.00% | MEDIUM |
+| Missing Number | 6.61% | 99.98% | EASY |
