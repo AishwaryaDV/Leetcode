@@ -44,3 +44,4 @@
 | Duplicate Zeros | 31.45% | 100.00% | EASY |
 | Relative Sort Array | 1.65% | 100.00% | EASY |
 | Number of Senior Citizens | 4.18% | 100.00% | EASY |
+| Check if a String Is an Acronym of Words | 2.59% | 100.00% | EASY |
