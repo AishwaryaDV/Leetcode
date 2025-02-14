@@ -155,3 +155,4 @@
 | Search a 2D Matrix | 0.33% | 100.00% | MEDIUM |
 | Reshape the Matrix | 3.59% | 100.00% | EASY |
 | Intersection of Two Arrays II | 5.29% | 100.00% | EASY |
+| Longest Palindrome | 21.04% | 100.00% | EASY |
