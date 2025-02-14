@@ -75,3 +75,4 @@
 | Valid Mountain Array | 5.91% | 100.00% | EASY |
 | Sort Array By Parity | 5.57% | 100.00% | EASY |
 | Squares of a Sorted Array | 6.04% | 100.00% | EASY |
+| Maximum Product of Three Numbers | 5.24% | 100.00% | EASY |
