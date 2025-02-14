@@ -143,3 +143,4 @@
 | Number of Segments in a String | 100.00% | 100.00% | EASY |
 | Add Strings | 100.00% | 100.00% | EASY |
 | Maximum Number of Words Found in Sentences | 6.07% | 100.00% | EASY |
+| Intersection of Multiple Arrays | 7.05% | 100.00% | EASY |
