@@ -132,3 +132,4 @@
 | Binary Tree Inorder Traversal | 0.02% | 99.44% | EASY |
 | Fizz Buzz | 0.92% | 100.00% | EASY |
 | Check if Every Row and Column Contains All Numbers | 5.05% | 64.20% | EASY |
+| Matrix Diagonal Sum | 0.67% | 100.00% | EASY |
