@@ -146,3 +146,4 @@
 | Intersection of Multiple Arrays | 7.05% | 100.00% | EASY |
 | Keep Multiplying Found Values by Two | 5.54% | 100.00% | EASY |
 | Count Prefixes of a Given String | 3.02% | 100.00% | EASY |
+| Most Frequent Even Element | 5.22% | 23.05% | EASY |
