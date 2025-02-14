@@ -102,3 +102,4 @@
 | Reverse Bits | 100.00% | 100.00% | EASY |
 | Reverse String | 2.67% | 100.00% | EASY |
 | Number of 1 Bits | 2.79% | 100.00% | EASY |
+| Sqrt(x) | 19.67% | 100.00% | EASY |
