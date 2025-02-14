@@ -50,3 +50,4 @@
 | N-Repeated Element in Size 2N Array | 5.02% | 42.74% | EASY |
 | Search in Rotated Sorted Array II | 1.24% | 100.00% | MEDIUM |
 | Two Sum | 45.60% | 99.98% | EASY |
+| Find Words That Can Be Formed by Characters | 38.71% | 93.08% | EASY |
