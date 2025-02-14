@@ -66,3 +66,4 @@
 | Check If Two String Arrays are Equivalent | 3.46% | 100.00% | EASY |
 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | 100.00% | 100.00% | EASY |
 | Counting Words With a Given Prefix | 5.04% | 100.00% | EASY |
+| Find Closest Number to Zero | 5.39% | 100.00% | EASY |
