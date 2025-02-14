@@ -26,3 +26,4 @@
 | Remove Element | 100.00% | 100.00% | EASY |
 | Best Time to Buy and Sell Stock | 7.00% | 99.97% | EASY |
 | Majority Element | 7.12% | 99.92% | EASY |
+| Remove Duplicates from Sorted Array II | 33.34% | 99.88% | MEDIUM |
