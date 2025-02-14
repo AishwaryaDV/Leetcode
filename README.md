@@ -150,3 +150,4 @@
 | Sort the People | 10.80% | 100.00% | EASY |
 | Largest Positive Integer That Exists With Its Negative | 5.69% | 100.00% | EASY |
 | Set Matrix Zeroes | 3.77% | 100.00% | MEDIUM |
+| Valid Parentheses | 100.00% | 100.00% | EASY |
