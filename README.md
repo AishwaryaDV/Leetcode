@@ -33,3 +33,4 @@
 | Find the Index of the First Occurrence in a String | 100.00% | 100.00% | EASY |
 | Candy | 9.72% | 100.00% | HARD |
 | Ant on the Boundary | 62.13% | 100.00% | EASY |
+| Divide Array Into Equal Pairs | 5.42% | 100.00% | EASY |
