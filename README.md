@@ -40,3 +40,4 @@
 | Check if Array is Good | 8.09% | 100.00% | EASY |
 | Check if The Number is Fascinating | 100.00% | 100.00% | EASY |
 | Find Maximum Number of String Pairs | 7.67% | 100.00% | EASY |
+| Height Checker | 2.43% | 100.00% | EASY |
