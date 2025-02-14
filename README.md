@@ -11,3 +11,4 @@
 | Reverse Vowels of a String | 6.35% | 100.00% | EASY |
 | Kids With the Greatest Number of Candies | 100.00% | 100.00% | EASY |
 | Merge Strings Alternately | 30.23% | 7.28% | EASY |
+| Find First and Last Position of Element in Sorted Array | 0.38% | 100.00% | MEDIUM |
