@@ -9,3 +9,4 @@
 | Can Place Flowers | 4.84% | 99.76% | EASY |
 | Reverse Words in a String | 21.66% | 66.25% | MEDIUM |
 | Reverse Vowels of a String | 6.35% | 100.00% | EASY |
+| Kids With the Greatest Number of Candies | 100.00% | 100.00% | EASY |
