@@ -158,3 +158,4 @@
 | Longest Palindrome | 21.04% | 100.00% | EASY |
 | Find Pivot Index | 13.37% | 100.00% | EASY |
 | Permutations | 100.00% | 100.00% | MEDIUM |
+| Running Sum of 1d Array | 5.78% | 100.00% | EASY |
