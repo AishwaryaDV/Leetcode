@@ -36,3 +36,4 @@
 | Divide Array Into Equal Pairs | 5.42% | 100.00% | EASY |
 | Form Smallest Number From Two Digit Arrays | 1.12% | 100.00% | EASY |
 | Minimum Common Value | 5.07% | 19.18% | EASY |
+| Kth Distinct String in an Array | 18.57% | 93.99% | EASY |
