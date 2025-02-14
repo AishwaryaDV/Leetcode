@@ -15,3 +15,4 @@
 | Find Peak Element | 0.87% | 99.97% | MEDIUM |
 | Happy Number | 100.00% | 62.80% | EASY |
 | Valid Anagram | 9.24% | 100.00% | EASY |
+| Contains Duplicate II | 11.51% | 73.84% | EASY |
