@@ -139,3 +139,4 @@
 | Number of Good Pairs | 100.00% | 100.00% | EASY |
 | Valid Perfect Square | 5.03% | 100.00% | EASY |
 | Find First Palindromic String in the Array | 5.40% | 100.00% | EASY |
+| Sort Characters By Frequency | 5.05% | 100.00% | MEDIUM |
