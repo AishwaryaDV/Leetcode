@@ -62,3 +62,4 @@
 | Find Target Indices After Sorting Array | 1.37% | 100.00% | EASY |
 | Search Insert Position | 0.27% | 100.00% | EASY |
 | Find Minimum in Rotated Sorted Array | 1.50% | 100.00% | MEDIUM |
+| Search in Rotated Sorted Array | 2.49% | 100.00% | MEDIUM |
