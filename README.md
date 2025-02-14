@@ -152,3 +152,4 @@
 | Set Matrix Zeroes | 3.77% | 100.00% | MEDIUM |
 | Valid Parentheses | 100.00% | 100.00% | EASY |
 | First Unique Character in a String | 5.64% | 100.00% | EASY |
+| Search a 2D Matrix | 0.33% | 100.00% | MEDIUM |
