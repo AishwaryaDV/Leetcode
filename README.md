@@ -147,3 +147,4 @@
 | Keep Multiplying Found Values by Two | 5.54% | 100.00% | EASY |
 | Count Prefixes of a Given String | 3.02% | 100.00% | EASY |
 | Most Frequent Even Element | 5.22% | 23.05% | EASY |
+| Sort the People | 10.80% | 100.00% | EASY |
