@@ -112,3 +112,4 @@
 | Three Divisors | 100.00% | 100.00% | EASY |
 | Final Value of Variable After Performing Operations | 0.96% | 100.00% | EASY |
 | Find Greatest Common Divisor of Array | 0.92% | 100.00% | EASY |
+| Can Make Arithmetic Progression From Sequence | 4.73% | 100.00% | EASY |
