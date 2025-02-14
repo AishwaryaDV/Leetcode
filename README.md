@@ -71,3 +71,4 @@
 | Set Mismatch | 7.88% | 32.47% | EASY |
 | Unique Morse Code Words | 3.23% | 100.00% | EASY |
 | Sort Even and Odd Indices Independently | 4.65% | 100.00% | EASY |
+| Sort Array By Parity II | 5.88% | 100.00% | EASY |
