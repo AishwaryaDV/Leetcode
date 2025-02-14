@@ -99,3 +99,4 @@
 | Keyboard Row | 100.00% | 100.00% | EASY |
 | Counting Bits | 5.94% | 100.00% | EASY |
 | Power of Three | 5.48% | 100.00% | EASY |
+| Reverse Bits | 100.00% | 100.00% | EASY |
