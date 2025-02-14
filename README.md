@@ -29,3 +29,4 @@
 | Remove Duplicates from Sorted Array II | 33.34% | 99.88% | MEDIUM |
 | Rotate Array | 2.91% | 100.00% | MEDIUM |
 | Remove Duplicates from Sorted Array | 100.00% | 100.00% | EASY |
+| Length of Last Word | 100.00% | 100.00% | EASY |
