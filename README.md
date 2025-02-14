@@ -104,3 +104,4 @@
 | Number of 1 Bits | 2.79% | 100.00% | EASY |
 | Sqrt(x) | 19.67% | 100.00% | EASY |
 | Single Number | 5.09% | 99.93% | EASY |
+| Roman to Integer | 5.49% | 100.00% | EASY |
