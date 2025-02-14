@@ -95,3 +95,4 @@
 | Remove One Element to Make the Array Strictly Increasing | 100.00% | 100.00% | EASY |
 | Maximum Product Difference Between Two Pairs | 5.21% | 100.00% | EASY |
 | Two Sum II - Input Array Is Sorted | 9.99% | 100.00% | MEDIUM |
+| Pascal's Triangle | 100.00% | 100.00% | EASY |
