@@ -76,3 +76,4 @@
 | Sort Array By Parity | 5.57% | 100.00% | EASY |
 | Squares of a Sorted Array | 6.04% | 100.00% | EASY |
 | Maximum Product of Three Numbers | 5.24% | 100.00% | EASY |
+| Count Elements With Strictly Smaller and Greater Elements  | 1.49% | 100.00% | EASY |
