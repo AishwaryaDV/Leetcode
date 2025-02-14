@@ -1,0 +1,23 @@
+
+
+
+    int compare(void *A, void *B){
+    return *(int*)A - *(int*)B;
+}
+int minimumDifference(int* nums, int numsSize, int k){
+    int min=INT_MAX;
+    if(numsSize==1 || numsSize==0){
+        return 0;
+    }
+    qsort(nums,numsSize,4,compare);
+    int i=0;
+    int j=k-1;
+    while(j<=numsSize-1){
+        if(min>nums[j]-nums[i]){
+            min=nums[j]-nums[i];
+        }
+        i++;
+        j++;
+    }
+    return min;
+}
