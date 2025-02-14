@@ -85,3 +85,4 @@
 | Find the Difference | 15.21% | 100.00% | EASY |
 | Ugly Number | 100.00% | 100.00% | EASY |
 | Add Digits | 0.90% | 100.00% | EASY |
+| Power of Two | 100.00% | 100.00% | EASY |
