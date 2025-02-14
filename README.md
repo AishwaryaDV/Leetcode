@@ -126,3 +126,4 @@
 | Minimum Index Sum of Two Lists | 80.70% | 5.26% | EASY |
 | Build Array from Permutation | 0.82% | 100.00% | EASY |
 | Minimum Difference Between Highest and Lowest of K Scores | 24.61% | 100.00% | EASY |
+| Delete Columns to Make Sorted | 5.53% | 100.00% | EASY |
