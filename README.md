@@ -23,3 +23,4 @@
 | Jump Game | 19.16% | 99.97% | MEDIUM |
 | Product of Array Except Self | 6.24% | 100.00% | MEDIUM |
 | Merge Sorted Array | 100.00% | 99.94% | EASY |
+| Remove Element | 100.00% | 100.00% | EASY |
