@@ -94,3 +94,4 @@
 | Divisor Game | 7.53% | 100.00% | EASY |
 | Remove One Element to Make the Array Strictly Increasing | 100.00% | 100.00% | EASY |
 | Maximum Product Difference Between Two Pairs | 5.21% | 100.00% | EASY |
+| Two Sum II - Input Array Is Sorted | 9.99% | 100.00% | MEDIUM |
