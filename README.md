@@ -105,3 +105,4 @@
 | Sqrt(x) | 19.67% | 100.00% | EASY |
 | Single Number | 5.09% | 99.93% | EASY |
 | Roman to Integer | 5.49% | 100.00% | EASY |
+| Plus One | 100.00% | 100.00% | EASY |
