@@ -166,3 +166,4 @@
 | Move Zeroes | 5.01% | 100.00% | EASY |
 | Sort Colors | 100.00% | 99.98% | MEDIUM |
 | Kth Largest Element in an Array | 5.39% | 100.00% | MEDIUM |
+| Pow(x, n) | 3.29% | 100.00% | MEDIUM |
