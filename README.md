@@ -90,3 +90,4 @@
 | Find All Numbers Disappeared in an Array | 5.05% | 100.00% | EASY |
 | Third Maximum Number | 6.54% | 100.00% | EASY |
 | Max Consecutive Ones | 3.48% | 100.00% | EASY |
+| Count Items Matching a Rule | 5.50% | 100.00% | EASY |
