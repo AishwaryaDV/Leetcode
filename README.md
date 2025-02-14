@@ -114,3 +114,4 @@
 | Find Greatest Common Divisor of Array | 0.92% | 100.00% | EASY |
 | Can Make Arithmetic Progression From Sequence | 4.73% | 100.00% | EASY |
 | Concatenation of Array | 1.06% | 100.00% | EASY |
+| Minimum Index Sum of Two Lists | 80.70% | 5.26% | EASY |
