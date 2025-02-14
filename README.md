@@ -110,3 +110,4 @@
 | Find N Unique Integers Sum up to Zero | 3.08% | 100.00% | EASY |
 | Count the Number of Consistent Strings | 5.08% | 100.00% | EASY |
 | Three Divisors | 100.00% | 100.00% | EASY |
+| Final Value of Variable After Performing Operations | 0.96% | 100.00% | EASY |
