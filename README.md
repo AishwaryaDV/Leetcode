@@ -8,6 +8,15 @@
 |  MEDIUM  | 24 | 14.9% | 94.9% |
 
 ## 📊 LeetCode Summary
+**Total questions done: 158**
+
+| Difficulty | Total Questions | Avg Runtime | Avg Memory |
+|------------|----------------|-------------|------------|
+|  EASY  | 133 | 25.19% | 93.72% |
+|  HARD  | 1 | 9.72% | 100.0% |
+|  MEDIUM  | 24 | 14.9% | 94.9% |
+
+## 📊 LeetCode Summary
 **Total questions done: 114**
 
 | Difficulty | Total Questions | Avg Runtime | Avg Memory |
