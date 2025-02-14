@@ -162,3 +162,4 @@
 | Maximum Subarray | 5.02% | 99.92% | MEDIUM |
 | Contains Duplicate | 5.39% | 100.00% | EASY |
 | Find the Duplicate Number | 5.06% | 100.00% | MEDIUM |
+| Intersection of Two Arrays | 24.73% | 100.00% | EASY |
