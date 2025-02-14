@@ -53,3 +53,4 @@
 | Find Words That Can Be Formed by Characters | 38.71% | 93.08% | EASY |
 | Peak Index in a Mountain Array | 0.77% | 100.00% | MEDIUM |
 | Buy Two Chocolates | 3.79% | 100.00% | EASY |
+| Neither Minimum nor Maximum | 5.04% | 100.00% | EASY |
