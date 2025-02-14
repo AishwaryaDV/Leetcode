@@ -56,3 +56,4 @@
 | Neither Minimum nor Maximum | 5.04% | 100.00% | EASY |
 | Detect Capital | 1.00% | 100.00% | EASY |
 | Find the Difference of Two Arrays | 5.03% | 100.00% | EASY |
+| Capitalize the Title | 1.81% | 100.00% | EASY |
