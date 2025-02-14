@@ -83,3 +83,4 @@
 | Power of Four | 100.00% | 100.00% | EASY |
 | Reverse Integer | 19.87% | 100.00% | MEDIUM |
 | Find the Difference | 15.21% | 100.00% | EASY |
+| Ugly Number | 100.00% | 100.00% | EASY |
