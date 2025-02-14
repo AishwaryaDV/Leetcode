@@ -55,3 +55,4 @@
 | Buy Two Chocolates | 3.79% | 100.00% | EASY |
 | Neither Minimum nor Maximum | 5.04% | 100.00% | EASY |
 | Detect Capital | 1.00% | 100.00% | EASY |
+| Find the Difference of Two Arrays | 5.03% | 100.00% | EASY |
