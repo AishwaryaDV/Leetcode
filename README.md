@@ -130,3 +130,4 @@
 | Binary Tree Postorder Traversal | 0.77% | 100.00% | EASY |
 | Binary Tree Preorder Traversal | 0.65% | 99.88% | EASY |
 | Binary Tree Inorder Traversal | 0.02% | 99.44% | EASY |
+| Fizz Buzz | 0.92% | 100.00% | EASY |
